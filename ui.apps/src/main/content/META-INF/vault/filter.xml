@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/next_moon/clientlibs"/>
+    <filter root="/apps/next_moon/components"/>
+    <filter root="/apps/next_moon/i18n"/>
+</workspaceFilter>
